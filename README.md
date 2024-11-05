@@ -4,7 +4,7 @@ In this project i was tasked to analyze customer data for a subscription service
 ### Data Set
 ----
 CUSTOMER DATA
-
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-2/blob/main/CUSTOMER%20DATA.xlsx
 ### Introduction
 ---
 The goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewal
@@ -16,7 +16,9 @@ I carefully analyzed the raw dataset so as to ascertain the subscription pattern
 ### Excel Features
 ---
 The Key Features of the Project are listed below
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-2/blob/main/subscription%20pattern.png
 
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-2/blob/main/top%20subscription%20type.png
 
 ### SQL Features of the project
 ---
@@ -39,3 +41,4 @@ Where condition = True
 ---
 I represented all the data worked on Excel and Sql in Power Bi and the result are a follows:
 
+https://github.com/Olori7/LITA-CAPSTONE-PROJECT-2/blob/main/customer%20data.jpg
